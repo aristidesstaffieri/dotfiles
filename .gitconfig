@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Aristides Staffieri
+	email = aristides@Aristidess-MacBook-Pro.local
+[user]
+	email = aristides@aristidesstaffieri.com
+	name = Aristides Staffieri
