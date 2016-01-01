@@ -1,0 +1,30 @@
+"*":
+  "exception-reporting":
+    userId: "ef8002cc-3d8c-baed-30c4-bfa58450ef19"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax-light"
+    ]
+    excludeVcsIgnoredPaths: false
+    openEmptyEditorOnStart: false
+  editor:
+    softWrap: true
+    invisibles: {}
+    fontSize: 15
+    tabType: "hard"
+  "one-dark-ui": {}
+  react: {}
+  "tree-view": {}
+  "proto-repl": {}
+  "atom-material-ui":
+    panelContrast: true
+    rippleAccentColor: true
+    slimScrollbar: true
+    useRoboto: true
+    useRobotoInUI: true
+  "seti-icons":
+    iconsPlus: true
+  "language-elm": {}
